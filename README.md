@@ -1,2 +1,3 @@
-# PP2_Summer
-the fucking coolest lines of codes from me
+
+## PP2 Summer    
+the fucking best python codes. EVER.
