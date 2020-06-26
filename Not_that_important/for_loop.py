@@ -11,5 +11,6 @@ for i in range(6):
 for i in range(len(a)):
     print(a[i])
 '''
-
+x=input().split()
+print(x)
     
