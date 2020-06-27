@@ -1,0 +1,4 @@
+Solved:1-43,46,48,51,53
+Overall:47 solved.
+At the 48 there's syntax error need to be fixed
+At the 49 can not use inputted number in regex
